@@ -15,6 +15,6 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'lita'
 
-  spec.add_development_dependency 'rspec', '~> 2.14'
+  spec.add_development_dependency 'rspec', '>= 3.0.0.beta2'
   spec.add_development_dependency 'pry'
 end
