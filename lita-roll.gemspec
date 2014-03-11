@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = 'lita-roll'
-  spec.version       = '1.0.0'
+  spec.version       = '1.0.1'
   spec.authors       = ['Jay Hayes']
   spec.email         = ['ur@iamvery.com']
   spec.description   = %q{Lita handler for making decisions}
